@@ -1,0 +1,4 @@
+1. Created a unique dataset by transforming and combining multiple existing sources of data into a cohesive dataset.
+2. Used statistical associations to identify statistical associations between donation patterns and key variables. Showcased quantitative and visual proof of the relationships between variables with scatterplots.
+3. Built a classifier/regressor using scikit-learn to predict donation patterns. 
+4. Programmatically store and queried data using SQLite.
